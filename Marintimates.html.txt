@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" > 
+<head>
+	<title>Mar Intimates</title>
+</head>
+<body>
+	<h1>Esto es un H1</h1>
+	<h2>Esto es un H2</h2>
+	<h3>Esto es un h3</h3>
+
+	<p>
+		Facundo esta <b>aprendiendo</b>
+	</p>
+
+	
+
+
+</body>
+</html>
